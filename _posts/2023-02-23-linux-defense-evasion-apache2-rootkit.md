@@ -15,6 +15,7 @@ Apache2 Rootkit
 Scenario
 ---------
 
+
 Our goal is to establish an Apache rootkit that will grant us command injection capabilities, allowing us to gain backdoor access.
 
 What Is A Rootkit?
