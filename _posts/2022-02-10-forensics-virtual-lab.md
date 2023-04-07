@@ -3,7 +3,7 @@ layout: post
 title: Forensics Virtual Lab
 date: 2022-02-10 21:16 +0300
 categories: [Cybersecurity, Threat Intel]
-tags: [forensics]
+tags: [forensics, lab]
 ---
 
 
