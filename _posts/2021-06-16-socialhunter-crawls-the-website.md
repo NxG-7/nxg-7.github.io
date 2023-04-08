@@ -10,7 +10,7 @@ tags: [osint]
 
 
 
-![](../../assets/img/osint/socialhunter1.png)
+![](../../assets/img/osint/socialhunter.png)
 
 
 Socialhunter is a tool that scans a provided URL to detect broken social media links that can be exploited for hijacking. Such broken links can potentially enable an attacker to carry out phishing attacks, which could result in a loss of the company's reputation. It's worth noting that the discovery of broken social media hijack issues is often eligible for recognition and reward in bug bounty programs.
