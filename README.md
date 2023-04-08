@@ -1,4 +1,4 @@
-# NxG Blog [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# NxG Blog ![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)
 
 Welcome to **NxG blog** where I discuss everything related to cyber security, ethical hacking, privacy, and protection against cyber threats. 
 
