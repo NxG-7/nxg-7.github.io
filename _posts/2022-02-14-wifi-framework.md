@@ -26,7 +26,7 @@ Usage
 
 To use the framework:
 
-*   Install it by running `./setup.sh`. See [setup](setup) to know what this script does.
+*   Install it by running `./setup.sh`
 
 Example
 --
