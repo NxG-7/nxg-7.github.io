@@ -24,7 +24,7 @@ MD5 | 1da824e80cedd24b390e4caee1202eb9
 ```
 
 ```perl
-# Exploit Title: Dbltek GoIP - Local File Inclusion
+    # Exploit Title: Dbltek GoIP - Local File Inclusion
     # Date: 20.02.2022
     # Exploit Author: Valtteri Lehtinen & Lassi Korhonen
     # Vendor Homepage: http://en.dbltek.com/index.html

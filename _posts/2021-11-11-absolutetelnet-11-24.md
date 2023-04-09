@@ -24,7 +24,7 @@ MD5 | c4916606f4a527de1d97ff6c1c0f4553
 
 
 ```perl
-# Exploit Title: AbsoluteTelnet 11.24 - 'Phone' Denial of Service (PoC)
+    # Exploit Title: AbsoluteTelnet 11.24 - 'Phone' Denial of Service (PoC)
     # Discovered by: Yehia Elghaly
     # Discovered Date: 2021-11-10
     # Vendor Homepage: https://www.celestialsoftware.net/

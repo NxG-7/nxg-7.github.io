@@ -24,7 +24,7 @@ MD5 | b31e7279051191481d8919615b301f40
 ```
 
 ```perl
-# Exploit Title: Wordpress Plugin Media Library Assistant 2.81 - Local File Inclusion
+    # Exploit Title: Wordpress Plugin Media Library Assistant 2.81 - Local File Inclusion
     # Google Dork: N/A
     # Date: 2020-04-13
     # Exploit Author: Daniel Monzón (stark0de)

@@ -23,7 +23,7 @@ MD5 | 40b02ffb098a5c31c187c21257fe02c9
 ```
 
 ```perl
-# Title: Wordpress Plugin WP Super Edit 2.5.4 - Remote File Upload
+    # Title: Wordpress Plugin WP Super Edit 2.5.4 - Remote File Upload
     # Author: h4shur
     # date: 2021-05-06
     # Vendor Homepage: https://wordpress.org

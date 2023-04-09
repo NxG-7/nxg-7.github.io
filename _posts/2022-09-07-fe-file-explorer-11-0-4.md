@@ -24,7 +24,7 @@ SHA-256 | 9596719bde6a381ce9f18435b2517e8ecf2d1838ab031974d2c37d361f760254
 ```
 
 ```perl
-# Exploit Title: FE File Explorer 11.0.4 Local File inclusion
+    # Exploit Title: FE File Explorer 11.0.4 Local File inclusion
     # Date: Sep 6, 2022
     # Exploit Author: Chokri Hammedi
     # Vendor Homepage: https://www.skyjos.com/

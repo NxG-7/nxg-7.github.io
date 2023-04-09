@@ -24,7 +24,7 @@ MD5 | 917fe6916d03c06d8ba1ce0a45d1837c
 
 
 ```perl
------BEGIN PGP SIGNED MESSAGE-----
+    -----BEGIN PGP SIGNED MESSAGE-----
     Hash: SHA256
     
     CA20201215-01: Security Notice for CA Service Catalog
