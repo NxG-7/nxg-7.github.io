@@ -558,6 +558,7 @@ MD5 | b599fecb0f9a19d1ceb90b55d70b84bc
     3. Solution:
     Update to 1.1.4
 ```
+{: .nolineno }
 
 <br>
 

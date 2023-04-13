@@ -51,6 +51,7 @@ MD5 | 40b02ffb098a5c31c187c21257fe02c9
     * Exploit 3 : site.com/wp-content/plugins/wp-super-edit/superedit/tinymce_plugins/mse/fckeditor/editor/filemanager/upload/test.html
     * Exploit 4 : site.com/wp-content/plugins/wp-super-edit/superedit/tinymce_plugins/mse/fckeditor/editor/filemanager/browser/default/frmupload.html
 ```
+{: .nolineno }
 
 <br>
 

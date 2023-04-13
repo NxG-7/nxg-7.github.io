@@ -78,6 +78,7 @@ MD5 | 68e69d9e1042cc074baef57a56b42176
     [+] Step 3. This should trigger the XSS payload and anytime you click on respective pages, your stored XSS payloads will be triggered.
 
 ```
+{: .nolineno }
 
 <br>
 

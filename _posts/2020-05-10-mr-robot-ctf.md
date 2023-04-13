@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mr Robot CTF
+title: Mr Robot CTF - TryHackMe
 date: 2020-05-10 16:52 +0300
-categories: [Cybersecurity, TryHackMe]
+categories: [Cybersecurity, CTF Challenges]
 tags: [ctf]
 ---
 

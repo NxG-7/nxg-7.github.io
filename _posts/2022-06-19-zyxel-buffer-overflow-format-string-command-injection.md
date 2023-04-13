@@ -948,6 +948,7 @@ SHA-256 | 79406602a0c385dac42a7bfb84e9d7b7c26a7d4a46efafc40a5870b2cd7836d2
     
     Copyright (c) 2022 Marco Ivaldi and Humanativa Group. All rights reserved.
 ```
+{: .nolineno }
 
 <br>
 

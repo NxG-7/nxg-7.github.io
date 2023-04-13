@@ -73,7 +73,7 @@ If you want to identify the person who leaked the document, simply submit the le
 Demo
 ---
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/EEDtXp9ngHw" title="wholeaked Demonstration Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="455" src="https://www.youtube.com/embed/EEDtXp9ngHw" title="wholeaked Demonstration Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 File Types and Detection Modes
 --

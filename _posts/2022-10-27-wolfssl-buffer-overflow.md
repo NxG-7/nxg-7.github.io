@@ -117,6 +117,7 @@ SHA-256 | dc47311c0e4409688cd698016d1b6ec4010bff4dbccd63241e107b8a91774b58
     #ifdef WOLFSSL_DEBUG_TLS
         [...]
 ```
+{: .nolineno }
 
 <br>
 

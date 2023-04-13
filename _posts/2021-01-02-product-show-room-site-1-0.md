@@ -94,6 +94,7 @@ SHA-256 | a796961a488458cb4bb41f2e00c8a65730ac1bded2e03daff8ea9786a74d591e
     4. Open http://172.24.5.107/psrs/admin/?page=inquiries,Viewing the Top 1 of Inquiries  page,We can see the alert.
       ![image](https://user-images.githubusercontent.com/60683449/171591660-c12ce9ac-aab1-45e9-b99f-7514dd28f698.png)
 ```
+{: .nolineno }
 
 <br>
 

@@ -67,6 +67,7 @@ MD5 | a23fbe7a9101f368564e24a1ccaad929
      - 10/26/2020: developer released an update which did not address the issue
      - 11/14/2020: full disclosure
 ```
+{: .nolineno }
 
 <br> 
 

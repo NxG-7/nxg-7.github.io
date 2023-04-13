@@ -53,6 +53,7 @@ MD5 | b31e7279051191481d8919615b301f40
     
     Tested on Windows 7 Pro SP1 32-bit and Wordpress 5.3.2
 ```
+{: .nolineno }
 
 <br>
 

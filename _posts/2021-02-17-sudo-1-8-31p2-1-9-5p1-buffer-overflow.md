@@ -158,6 +158,7 @@ There is a vulnerability in the sudo command line utility that allows a local at
       end
     end
 ```
+{: .nolineno }
 
 <br>
 
