@@ -153,7 +153,8 @@ We can examine the topmost POST request by clicking on the Payload tab and selec
 
 In the form payload, we observe the presence of "log=c0rrupt3d_brain" and "pwd=password" along with other parameters that are automatically provided by the web form.
 
-```log=c0rrupt3d_brain&pwd=password&wp-submit=Log+In&redirect_to=http%3A%2F%2Fevm.cyber.range%2Fwordpress%2Fwp-admin%2F&testcookie=1
+```
+log=c0rrupt3d_brain&pwd=password&wp-submit=Log+In&redirect_to=http%3A%2F%2Fevm.cyber.range%2Fwordpress%2Fwp-admin%2F&testcookie=1
 ```
 
 ### After
@@ -1048,7 +1049,8 @@ The directive at the top supersedes the allow statement at the bottom. As a resu
 ![](../../assets/img/vulnhub/ev11.png)
 
 ### Flags
-/root/proof.txt
+
+`/root/proof.txt`
 
 ![](../../assets/img/vulnhub/ev12.png)
 
